@@ -1,0 +1,22 @@
+
+.container{
+    max-width: 500px;
+    text-align: center;
+
+}
+form label{
+    padding-top: 5px;
+}
+.teste{
+    text-align: start;
+    margin-top: 10px;
+}
+
+.teste label{
+    padding-top: calc(-5px);
+}
+
+
+body{
+    background-color: rgb(140, 127, 255);
+} 
